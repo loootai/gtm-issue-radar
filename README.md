@@ -1,4 +1,8 @@
+<p align="center"><img src="assets/hero.png" alt="gtm-issue-radar: Weekly triage list of data API issues" width="100%"></p>
+
 # gtm-issue-radar
+
+[![License](https://img.shields.io/github/license/loootai/gtm-issue-radar)](LICENSE) [![Docs](https://img.shields.io/badge/docs-docs.looot.ai-12A06A)](https://docs.looot.ai)
 
 A weekly list of open GitHub issues where someone is stuck on a data API: Hunter, Apollo, SerpApi, Proxycurl, People Data Labs, email finders, remote MCP sign-in. It is a triage list. A human reads it and decides which issues, if any, deserve an answer.
 
