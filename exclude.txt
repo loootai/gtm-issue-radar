@@ -1,0 +1,3 @@
+# Repos to skip, one owner/name per line.
+loootai/looot-mcp
+walidboulanouar/last30days-skill
